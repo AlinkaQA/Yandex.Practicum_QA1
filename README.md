@@ -6,3 +6,4 @@
 3. Протестировать валидацию полей и завести баг-репорты;
 
 Результатом работы стал документ с проведенными тест-анализами (см. прикрепленные документы)
+https://docs.google.com/spreadsheets/d/1IzXAgFKbBnpQmYwthOvllVLyJOotBuZNyDhPgdkLFuc/edit?gid=1610041137#gid=1610041137
